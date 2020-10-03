@@ -1,0 +1,58 @@
+Software
+
+//packages
+
+arandr 0.1.10-4
+arc-gtk-theme 20200819-2
+discord 0.0.12-1
+feh 3.5-1
+firefox 81.0.1-1
+git 2.28.0-1
+gzip 1.10-3
+htop 3.0.2-1
+i3-gaps 4.18.2-2
+imagemagick 7.0.10.31-1
+light-locker 1.9.0-2
+lightdm-webkit-theme-aether 2.2.2-1
+lightdm-webkit2-greeter 2.2.5-4
+lxappearance 0.6.3-3
+man-db 2.9.3-1
+neofetch 7.1.0-1
+neovim 0.4.4-1
+npm 6.14.8-1
+nvidia 455.23.04-3
+nvidia-settings 455.23.04-1
+papirus-icon-theme 20201001-1
+pavucontrol 1:4.0-2
+picom 8.1-2
+polybar 3.4.3-2
+pulseaudio 13.0-3
+pulseaudio-equalizer-ladspa 3.0.2-3
+rofi 1.6.0-1
+rxvt-unicode 9.22-10
+spectacle 20.08.1-1
+spotify 1:1.1.42.622-1
+steam 1.0.0.66-1
+sublime-text 3211-1
+thunar 1.8.15-1
+tldr 1.0.0-2
+ttf-font-awesome-4 4.7.0-5
+ttf-google-fonts-typewolf 20.06.7993310-2
+ttf-menlo-powerline-git r6.07e91f6-1
+unzip 6.0-14
+vitetris 0.58.0-1
+vlc 3.0.11.1-4
+w3m 0.5.3.git20200507-2
+wget 1.20.3-3
+zsh 5.8-1
+
+
+
+
+
+
+Pure Zsh
+Zim zsh
+
+steam > stardew valley
+steam > slay the spire
